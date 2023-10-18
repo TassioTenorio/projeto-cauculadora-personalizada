@@ -1,2 +1,2 @@
-# projeto-cauculadora-personalizada
-Esse é um projeto de uma calculadora personaliza utilizando html e css.
+# custom-cauculator-project
+This is a project for a custom calculator using HTML and CSS.
